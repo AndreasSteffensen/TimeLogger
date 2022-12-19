@@ -1,0 +1,6 @@
+Day,Date,Starting time,Ending time,Total
+Day,Date,Starting time,Ending time,Total
+Day,Date,Starting time,Ending time,Total
+Day,Date,Starting time,Ending time,Total
+ Date, Time of check-in, Andreas Steffensen, Time of check-out
+ Date, Time of check-in, Andreas Steffensen, Time of check-out
